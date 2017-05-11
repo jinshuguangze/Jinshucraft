@@ -1,0 +1,17 @@
+[
+{
+ "modid": "jinshucraft",
+ "name": "jinshucraft",
+ "description": "Created with Custom Stuff 2.",
+ "version": "1.0.0",
+ "mcversion": "1.7.10",
+ "url": "",
+ "updateUrl": "",
+ "authors": [""],
+ "credits": "",
+ "logoFile": "",
+ "screenshots": [],
+ "dependencies": ["CustomStuff2"],
+ "parent": "CustomStuff2"
+}
+]

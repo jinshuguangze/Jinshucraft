@@ -1,0 +1,26 @@
+/*木质工作台GUI*/
+
+/*属性*/
+guiFile = "WoodenWorkingTableGUI.png";//GUI图片
+height = 166;//GUI高度
+name = "WoodenWorkingTableGUI";//名称
+stringColor[0] = "704629";//字符串颜色
+stringText[0] = "木质工作台";//字符串文本
+stringX[0] = 27;//字符串坐标x值
+stringY[0] = 7;//字符串坐标y值
+stringX[1] = 8;
+stringY[1] = 72;
+width = 176;//GUI长度
+
+/*特殊*/
+inventoryX = 8;//背包起始点x值
+inventoryY = 84;//背包起始点y值
+resultX = 124;//产物坐标x值
+resultY = 35;//产物坐标y值
+craftingX = 23;//合成起始点x值
+craftingY = 25;//合成起始点y值
+colLength = 2;//纵向格数
+rowLength = 3;//横向格数
+usedRecipeLists = "WoodenWorking";//使用合成表名称
+
+/*触发器*/

@@ -1,0 +1,26 @@
+var A;
+var B;
+for(A=0;A<1;A++)
+{position.x--;
+ if(world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_")
+   {position.x++;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ position.x+=2;
+ if(world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_")
+   {position.x--;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ position.x--;
+ position.z--;
+ if(world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_")
+   {position.z++;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ position.z+=2;
+ if(world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_")
+   {position.z--;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ position.z--;
+ position.y--;
+ if(world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomOutput"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomOutput")
+   {position.y++;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ position.y++;
+ if(world.getBlockName(position)!="minecraft:air"&&world.getBlockName(position)!="jinshucraft:DecayingBlock"&&world.getBlockName(position)!="jinshucraft:DecayedBlock"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:WoodenDecayingRoom"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall1_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall2_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall3_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoomWall4_"&&world.getBlockName(position)!="jinshucraft:StoneDecayingRoom")
+   {position.y--;world.setBlockAndMetadata(position,"jinshucraft:DecayBlock",world.getBlockMetadata(position));break;}
+ B=1;}
+if(B==1)
+  {mod.loadScript("DecayingCheck.js");}

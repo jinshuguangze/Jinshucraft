@@ -1,0 +1,64 @@
+/*继承于木质工作台*/
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenVariationRoom", 3, 2, ":logWood", "", ":logWood", "", ":logWood", "");
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenDryingRoom", 3, 2, ":itemWood", "", ":itemWood", ":logWood", ":logWood", ":logWood");
+mod.addRecipeFor("vanilla", "jinshucraft:itemLeavesBucket", 3, 2, "jinshucraft:itemCocoaLeaves", "", "jinshucraft:itemCocoaLeaves", "jinshucraft:itemCocoaLeaves", "jinshucraft:itemCocoaLeaves", "jinshucraft:itemCocoaLeaves");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:1", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:1", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:1", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:1", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:1", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:2", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:3", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:4", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:4", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:4", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:4", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:4", 3, 2, "jinshucraft:itemLeavesBucket", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:LeavesTank:5", 3, 2, "jinshucraft:itemLeavesBucket_water", "", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water", "jinshucraft:itemLeavesBucket_water");
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenDecayingRoom", 3, 2, "jinshucraft:LeavesTank", "jinshucraft:WoodenNurtureBench", "jinshucraft:LeavesTank", "jinshucraft:itemWood:0", ":logWood", "jinshucraft:itemWood:0");
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenDecayingRoomWall1_:0 3", 3, 2, ":DriedLeaves", ":DriedLeaves", ":DriedLeaves", "jinshucraft:itemWood:0", ":logWood", "jinshucraft:itemWood:0");
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenDecayingRoomOutput", 3, 2, "jinshucraft:itemWood:0", "jinshucraft:WoodenDecayingRoomWall1_:0", "jinshucraft:itemWood:0", "jinshucraft:itemWood:0", "jinshucraft:itemPineNeedles", "jinshucraft:itemWood:0");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "minecraft:flint", "minecraft:flint", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:64", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "minefantasy2:MF_Com_sharp_rock", "minefantasy2:MF_Com_sharp_rock", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:72", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "jinshucraft:itemSmallFlint:4", "jinshucraft:itemSmallFlint:4", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:80", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "jinshucraft:itemSmallFlint:3", "jinshucraft:itemSmallFlint:3", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:88", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "jinshucraft:itemSmallFlint:2", "jinshucraft:itemSmallFlint:2", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:96", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "jinshucraft:itemSmallFlint:1", "jinshucraft:itemSmallFlint:1", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:iron_saw:104", 3, 2, "minefantasy2:MF_Com_vine", ":stickWood", ":itemWood", "jinshucraft:itemSmallFlint:0", "jinshucraft:itemSmallFlint:0", ":stickWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:plank_saw", 3, 2, ":itemWood", ":stickWood", "yegamolchattels:iron_saw-", "", ":stickWood", ":logWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:plank_saw", 3, 2, ":itemWood", ":stickWood", "", "yegamolchattels:iron_saw-", ":stickWood", ":logWood");
+mod.addRecipeFor("vanilla", "minefantasy2:MF_CarpenterBench", 3, 2, "minefantasy2:MF_Com_plank", "yegamolchattels:iron_saw-", "minefantasy2:MF_Com_plank", "minefantasy2:MF_Com_plank", "jinshucraft:vanillaTable", "minefantasy2:MF_Com_plank");
+mod.addRecipeFor("vanilla", "jinshucraft:itemNet", 3, 2, "minefantasy2:MF_Com_vine", "minefantasy2:MF_Com_vine", "minefantasy2:MF_Com_vine", "minefantasy2:MF_Com_vine", "minefantasy2:MF_Com_vine", "minefantasy2:MF_Com_vine");
+mod.addRecipeFor("vanilla", "jinshucraft:WoodenSieveFrame 2", 3, 2, "minefantasy2:MF_Com_plank", ":itemWood", "minefantasy2:MF_Com_plank", "minefantasy2:MF_Com_plank", ":itemWood", "minefantasy2:MF_Com_plank");
+mod.addRecipeFor("vanilla", "yegamolchattels:pedestal", 1, 2, ":logWood", ":itemWood");
+mod.addRecipeFor("vanilla", "yegamolchattels:ygcItemShelf:1", 3, 2, ":itemWood", ":itemWood", ":itemWood", ":itemWood", ":itemWood", ":itemWood");
+mod.addRecipeFor("vanilla", "jinshucraft:itemWoodenExplorationDrill", 3, 1, ":stickWood", ":stickWood", ":stickWood");
+mod.addRecipeFor("vanilla", "minecraft:stick", 1, 2, "yegamolchattels:iron_saw-", ":itemShoot");//木匠技能提升后才有
+mod.addRecipeFor("vanilla", "minecraft:stick 2", 1, 2, "yegamolchattels:iron_saw-", ":treeSapling");//木匠技能提升后才有
+mod.addRecipeFor("vanilla", "minecraft:stick 2", 1, 2, "yegamolchattels:iron_saw-", "minecraft:deadbush");//木匠技能提升后才有
+mod.addRecipeFor("vanilla", "minecraft:stick 2", 1, 2, "yegamolchattels:iron_saw-", "minefantasy2:MF_Com_plank");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "minecraft:stick", ":treeSapling");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "minecraft:stick", "minecraft:deadbush");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "minecraft:stick", "jinshucraft:itemShoot");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "minecraft:log", "jinshucraft:itemWood:1", "jinshucraft:itemWood:1", "jinshucraft:itemWood:1", "jinshucraft:itemWood:1");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "jinshucraft:PineWood", "jinshucraft:itemWood:2", "jinshucraft:itemWood:2", "jinshucraft:itemWood:2", "jinshucraft:itemWood:2");//木匠技能提升后才有
+mod.addShapelessRecipeFor("vanilla", "jinshucraft:CocoaWood", "jinshucraft:itemWood:3", "jinshucraft:itemWood:3", "jinshucraft:itemWood:3", "jinshucraft:itemWood:3");//木匠技能提升后才有

@@ -1,0 +1,12 @@
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "minecraft:sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "Forestry:sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "jinshucraft:PineTree");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "jinshucraft:CocoaTree");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "BiomesOPlenty:sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "minefantasy2:yew_sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "minefantasy2:ironbark_sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "minefantasy2:ebony_sapling");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "jinshucraft:itemShoot:0");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "jinshucraft:itemShoot:1");
+mod.addSmeltingRecipeFor("WoodenVariation", "jinshucraft:VariationSapling", "jinshucraft:itemShoot:2");
+mod.addFuelFor("fuelVariation", "jinshucraft:itemFuel", 1);

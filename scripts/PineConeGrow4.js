@@ -1,0 +1,1 @@
+world.setBlockMetadata(position,4);

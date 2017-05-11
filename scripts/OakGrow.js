@@ -1,0 +1,89 @@
+var grow=1;
+var xx=position.x,yy=position.y,zz=position.z;
+for(var i=0;i<5;i++){
+	position.y++;
+	if(world.getBlockName(position)!="minecraft:air"){
+		grow=0;
+	}
+}
+position.x=xx;
+position.y=yy;
+position.z=zz;
+if(grow==1){
+	for(i=0;i<6;i++){
+		world.setBlockAndMetadata(position,"minecraft:log",0);
+		position.y++;
+	}
+	position.y-=3;
+	position.x-=2;
+	position.z-=2;
+	for(i=0;i<2;i++){
+		for(var j=0;j<5;j++){
+			for(var k=0;k<5;k++){
+				if(world.getBlockName(position)=="minecraft:air"){
+					world.setBlockAndMetadata(position,"minecraft:leaves",0);
+					if((j==0&&k==0)||(j==0&&k==4)||(j==4&&k==0)||(j==4&&k==4)){
+						if(Math.random()<0.4){
+							world.setBlockAndMetadata(position,"minecraft:leaves",0);
+						}
+						else{
+							world.setBlock(position,"minecraft:air");
+						}
+					}
+				}
+				position.x++;
+			}
+			position.x-=5;
+			position.z++;
+		}
+		position.z-=5;
+		position.y++;
+	}
+	position.x=xx-1;
+	position.y=yy+5;
+	position.z=zz-1;
+	for(i=0;i<3;i++){
+		for(j=0;j<3;j++){
+			if(world.getBlockName(position)=="minecraft:air"){
+				world.setBlockAndMetadata(position,"minecraft:leaves",0);
+				if((j==0&&k==0)||(j==0&&k==2)||(j==2&&k==0)||(j==2&&k==2)){
+					if(Math.random()<0.75){
+						world.setBlockAndMetadata(position,"minecraft:leaves",0);
+					}
+					else{
+						world.setBlock(position,"minecraft:air");
+					}
+				}
+			}
+			position.x++;
+		}
+		position.x-=3;
+		position.z++;
+	}
+	position.x=xx;
+	position.y=yy+6;
+	position.z=zz;
+	if(world.getBlockName(position)=="minecraft:air"){
+		world.setBlockAndMetadata(position,"minecraft:leaves",0);
+	}
+	position.x--;
+	if(world.getBlockName(position)=="minecraft:air"){
+		world.setBlockAndMetadata(position,"minecraft:leaves",0);
+	}
+	position.x+=2;
+	if(world.getBlockName(position)=="minecraft:air"){
+		world.setBlockAndMetadata(position,"minecraft:leaves",0);
+	}
+	position.x--;
+	position.z--;
+	if(world.getBlockName(position)=="minecraft:air"){
+		world.setBlockAndMetadata(position,"minecraft:leaves",0);
+	}
+	position.z+=2;
+	if(world.getBlockName(position)=="minecraft:air"){
+		world.setBlockAndMetadata(position,"minecraft:leaves",0);
+	}
+}
+position.x=xx;
+position.y=yy;
+position.z=zz;

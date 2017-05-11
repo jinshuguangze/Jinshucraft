@@ -1,0 +1,37 @@
+position.x++;
+if(world.getBlockName(position)=="jinshucraft:StoneWorkingTable"&&world.getBlockMetadata(position)==8){
+	position.z++;
+	if(world.getBlockName(position)=="jinshucraft:StoneWorkingTable"&&world.getBlockMetadata(position)==8){
+		position.x--;
+		if(world.getBlockName(position)=="jinshucraft:StoneWorkingTable"&&world.getBlockMetadata(position)==8){
+			position.z--;
+			position.y++;
+			if(world.getBlockName(position)=="minecraft:dirt"&&world.getBlockMetadata(position)==0){
+				position.x++;
+				if(world.getBlockName(position)=="minecraft:dirt"&&world.getBlockMetadata(position)==0){
+					position.z++;
+					if(world.getBlockName(position)=="minecraft:dirt"&&world.getBlockMetadata(position)==0){
+						position.x--;
+						if(world.getBlockName(position)=="minecraft:dirt"&&world.getBlockMetadata(position)==0){
+							world.setBlock(position,"minecraft:air");
+							position.z--;
+							world.setBlock(position,"minecraft:air");
+							position.x++;
+							world.setBlock(position,"minecraft:air");
+							position.z++;
+							world.setBlock(position,"minecraft:air");
+							position.y--;
+							world.setBlock(position,"jinshucraft:StoneNurtureBench");
+							position.x--;
+							world.setBlock(position,"jinshucraft:StoneNurtureBench");
+							position.z--;
+							world.setBlock(position,"jinshucraft:StoneNurtureBench");
+							position.x++;
+							world.setBlock(position,"jinshucraft:StoneNurtureBench");
+						}
+					}
+				}
+			}
+		}
+	}
+}
