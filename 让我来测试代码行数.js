@@ -1,0 +1,1 @@
+world.sendMessageToAllPlayers("Hello,World!");
