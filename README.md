@@ -1,0 +1,2 @@
+# Jinshucraft
+一个大型的Minecraft扩展mod，需要安装customstuff2，blockproperties以及minetweaker
